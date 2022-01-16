@@ -14,6 +14,8 @@ Cobalt Strike gives you a post-exploitation agent and covert channels to emulate
 ## Cobalt Strike v4.5
  This release sees new options for process injection, updates to the sleep mask and UDRL kits, evasion improvements and a command history update along with other, smaller changes.
  
+<img alt="Cobalt Strike " src="https://github.com/trewisscotch/Cobalt-Strike-License/blob/main/screenshot_cs.jpeg"/>
+ 
 <img alt="Cobalt Strike " src="https://github.com/trewisscotch/Cobalt-Strike-License/blob/main/cs4.5_history_command%20.png"/>
   
 <img alt="Cobalt Strike " src="https://github.com/trewisscotch/Cobalt-Strike-License/blob/main/cs4.5_history_command1.png"/>
